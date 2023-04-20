@@ -1,9 +1,9 @@
 
-# asdf  <a href="https://opensource.org/license/mit/">[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</a>
+# README-ALAKAZAM  <a href="https://opensource.org/license/mit/">[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</a>
 
 ## Description
 
-asdf
+This project uses Inquirer and node index.js in order to generate a high-quality readme. The purpose of this project was to practice using our index.js in order to create prompts within the terminal in order to create a file of our choosing, in this case a readme, based on a template we created. We need to install Node v16 and install inquirer in order to allow this application to work and generate a readME.md when we execute node index.js in our terminal.
 
 ## Table of Contents
 
@@ -19,21 +19,21 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-asdf
+download node V16 and in terminal: npm i Inquirer@8.2.4
 
 ## Usage
 
-sadf
+within the local terminal you execute node index.js
 
 ## Credits
 
-asdf
+1 on 1 Tutor: Juan Santiago | Office Hours | Myself
 
 ## License
 
 ## MIT
 
-Copyright 2023 | asdf
+Copyright 2023 | Ryan Kang
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
     
@@ -44,21 +44,23 @@ Copyright 2023 | asdf
 
 ## Contribute
 
-asddf
+Git clone repo and create a local dev branch with changes and push. Will review material 
 
 ## Tests
 
-asdf
+NA
 
 ## Questions
 
 If you have any questions you can contact me through:
 
-Email: sdf
+Email: ryan.sanhae.kang@gmail.com
 
 My Github is linked below:
 
-Github: Github.com/asdfd
+Github: Github.com/RyanSKang
 
 Link to ScreenCastify Video: 
+
+<a href="https://drive.google.com/file/d/1IxJpDLTpKqzkAKKDmb4b8zUgrYGhdr4K/view">Recorded Video</a>
 
