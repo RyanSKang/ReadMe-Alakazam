@@ -128,9 +128,11 @@ ${test}
 
 If you have any questions you can contact me through:
 
-Github: Github.com/${github}
-
 Email: ${email}
+
+My Github is linked below:
+
+Github: Github.com/${github}
 
 `;
 };
